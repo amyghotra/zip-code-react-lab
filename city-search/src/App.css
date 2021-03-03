@@ -5,9 +5,13 @@
   text-align: center;
 }
 
-#not-found {
+* {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#no-results {
   margin-top: 50px;
-  text-align: center;
+  margin-left: 600px;
 }
 
 li {
